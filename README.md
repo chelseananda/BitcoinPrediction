@@ -8,8 +8,7 @@ Form of machine learning that utilize a neural network to transform a set of inp
 # Reinforcement Learning (RL):
 A process in which an agent learns to make decisions through trial and error.
 (It is similar to training you dog, when your dog performa the trick you reward him and if he does not you punish him.)
-# image
-
+<img width="580" alt="dog catch" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/1ad77408-27ed-43d3-911a-6efdfc2b4f79">
 Terminologies used in the RL are defined below:
 1. Agent: The decision-maker to train
 2. Environment: General setting where agent learns and decides what actions to take.
