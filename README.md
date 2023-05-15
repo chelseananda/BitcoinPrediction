@@ -8,7 +8,7 @@ Form of machine learning that utilize a neural network to transform a set of inp
 # Reinforcement Learning (RL):
 A process in which an agent learns to make decisions through trial and error.
 (It is similar to training you dog, when your dog performa the trick you reward him and if he does not you punish him.)
-<img width="580" alt="dog catch" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/1ad77408-27ed-43d3-911a-6efdfc2b4f79">
+                <img width="538" alt="dog example" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/6d191c2f-dec1-41a9-9d9b-5fb876061ac1">
 
 Terminologies used in the RL are defined below:
 1. Agent: The decision-maker to train
@@ -18,13 +18,15 @@ Terminologies used in the RL are defined below:
 5. Reward: The result agent get from its own action from the environment in terms of gain or loss.(r)
 6. Policy: The strategy chosen by the agent. It represents a mapping between the set of situations and the set of possible actions. (∏ - pie)
 To understand more efficiently we can think of the PacMan game.
-# image
+                <img width="550" alt="Screenshot 2023-05-15 at 5 43 41 PM" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/ec69bbc6-5430-4b30-ac17-752165808eb6">
+
 # Metrics: 
 There are 2 metrics for the RL:
 a. Value Function V∏(s): It is the expected discounted REWARD startin g with state s and successively following policy ∏.
-#image
+                <img width="312" alt="Screenshot 2023-05-15 at 5 45 58 PM" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/50d38a3e-49c9-456c-90c2-051043f54a1b">
+                
 b. Q-Value Q∏(s,a): It is the expected discount return when in a given states s and for given action a while following the policy ∏* thereafter.
-# image
+                <img width="197" alt="Screenshot 2023-05-15 at 5 48 19 PM" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/7b93a114-c077-456a-95e1-a599a1954580">
     
 # Deep Reinforcement Learning:
 A subfield of machine learning that combines reinforcement learning and deep learning.
@@ -35,7 +37,7 @@ A subfield of machine learning that combines reinforcement learning and deep lea
 4. Usage of exploration and exploitation technique.
 5. Computational Power by using Q-Learning and Deep Learning Neural Networks.
 Therefore for the provided thesis we can combine Deep learning and Reinforecement Learning using the Q-Learning approach which consist of building and traing the neural networks or model capable of estimating given state, by using different Q - Values for each action.
-# image
+                <img width="859" alt="Screenshot 2023-05-15 at 6 14 26 PM" src="https://github.com/chelseananda/BitcoinPrediction/assets/60791339/7c6db205-187d-40c9-aba8-88271e86af63">
 
 # Question: Why are we combining the deep learning and Reinforcement Learning? 
 We are combining the rL and DL to maximise the performance. In Deep Learning we a have some limitations such as requirement of massive daa resulting into long training time. But adding the Reinforcement Learning we can solve more complicated tasks with lower prior knowledge and resulting into lesser time and maximising the reward.
