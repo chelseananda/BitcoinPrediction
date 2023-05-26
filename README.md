@@ -31,7 +31,7 @@ b. Q-Value Q∏(s,a): It is the expected discount return when in a given states 
 # Deep Reinforcement Learning:
 A subfield of machine learning that combines reinforcement learning and deep learning.
 # ADVANTAGES: 
-1. Outperformance in many challenging games compare dto humans.
+1. Outperformance in many challenging games compared to humans.
 2. Returning hte maximized trading goal.
 3. Providing the sequential feedback for the stock market.
 4. Usage of exploration and exploitation technique.
