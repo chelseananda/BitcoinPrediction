@@ -50,9 +50,10 @@ Three actor-critic (name of the deep learning algorithms) based algorithms:
 1. Proximal Policy Optimization (PPO)
 2. Advantage Actor-Critic (A2C)
 3. Deep Deterministic Policy Gradient (DDPG)
-The performance of the algorithms and brrn evaluated using the SHARPE RATIO which is done by the comparison with 1. Dow Jones Industrial Average Index and 2. Traditional min-variance portfolio allocation strategy.
+The performance of the algorithms and been is evaluated using the SHARPE RATIO which is done by comparison with 1. Dow Jones Industrial Average Index and 2. Traditional min-variance portfolio allocation strategy.
 
 #Coding
 Worked in the FINRL Coding and found out the models techniques and all the data sources used in the code.
 In addition to that working on how to add N-beats and RNN models into the FINRl models.
+Downloaded and fixed the code to make it run.
 
